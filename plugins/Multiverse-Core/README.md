@@ -5,6 +5,7 @@
 https://dev.bukkit.org/projects/multiverse-core
 
 # Version
+2.5.0
 
 # Installed Server
 - s1

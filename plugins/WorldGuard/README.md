@@ -5,6 +5,7 @@
 https://dev.bukkit.org/projects/worldguard
 
 # Version
+6.2.2
 
 # Installed Server
 - s1

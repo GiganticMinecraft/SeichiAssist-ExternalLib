@@ -2,7 +2,7 @@
 ほかプレイヤーのインベントリを確認、編集できるようにするプラグイン
 
 ## Link
-https://dev.bukkit.org/projects/openinv
+[https://dev.bukkit.org/projects/openinv](https://dev.bukkit.org/projects/openinv)
 
 ## Version
 

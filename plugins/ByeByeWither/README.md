@@ -2,7 +2,7 @@
 ウィザー及びエンダードラゴンの召喚を抑制できるプラグイン
 
 ## Link
-https://github.com/HimaJyun/ByeByeWither
+[https://github.com/HimaJyun/ByeByeWither](https://github.com/HimaJyun/ByeByeWither)
 
 ## Version
 

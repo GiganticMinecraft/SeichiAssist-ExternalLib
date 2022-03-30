@@ -2,7 +2,7 @@
 ワールドを移動した際にワールド名等の情報を表示するプラグイン
 
 ## Link
-https://github.com/HimaJyun/ThisWorld
+[https://github.com/HimaJyun/ThisWorld](https://github.com/HimaJyun/ThisWorld)
 
 ## Version
 

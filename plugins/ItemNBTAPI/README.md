@@ -2,7 +2,7 @@
 カスタムNBTタグを追加することができるプラグイン
 
 ## Link
-https://www.spigotmc.org/resources/nbt-api.7939/
+[https://www.spigotmc.org/resources/nbt-api.7939/](https://www.spigotmc.org/resources/nbt-api.7939/)
 
 ## Version
 

@@ -2,7 +2,7 @@
 複数のワールドを追加できるようになるプラグイン
 
 ## Link
-https://dev.bukkit.org/projects/multiverse-core
+[https://dev.bukkit.org/projects/multiverse-core](https://dev.bukkit.org/projects/multiverse-core)
 
 ## Version
 2.5.0

@@ -2,7 +2,7 @@
 サーバーのパフォーマンスを分析し、ラグの原因の特定を補助できるプラグイン
 
 ## Link
-https://www.spigotmc.org/resources/lagmonitor.21348/
+[https://www.spigotmc.org/resources/lagmonitor.21348/](https://www.spigotmc.org/resources/lagmonitor.21348/)
 
 ## Version
 

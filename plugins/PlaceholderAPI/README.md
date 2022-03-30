@@ -2,7 +2,7 @@
 PlaceholderのAPI
 
 ## Link
-https://www.spigotmc.org/resources/placeholderapi.6245/
+[https://www.spigotmc.org/resources/placeholderapi.6245/](https://www.spigotmc.org/resources/placeholderapi.6245/)
 
 ## Version
 v 2.9.2

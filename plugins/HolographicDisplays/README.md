@@ -2,7 +2,7 @@
 空中に文字を表示するプラグイン
 
 ## Link
-https://dev.bukkit.org/projects/holographic-displays
+[https://dev.bukkit.org/projects/holographic-displays](https://dev.bukkit.org/projects/holographic-displays)
 
 ## Version
 v 2.3.2

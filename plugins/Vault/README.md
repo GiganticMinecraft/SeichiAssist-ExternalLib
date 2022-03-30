@@ -2,7 +2,7 @@
 パーミッションやチャット、経済要素をフックしやすいようにする機能を提供するプラグイン
 
 ## Link
-https://www.spigotmc.org/resources/vault.34315/
+[https://www.spigotmc.org/resources/vault.34315/](https://www.spigotmc.org/resources/vault.34315/)
 
 ## Version
 1.6.7

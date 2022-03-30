@@ -2,7 +2,7 @@
 AsyncWorldEditの派生プラグインらしいが詳細不明
 
 ## Link
-https://github.com/FrukTik/AsyncWorldEditInjector
+[https://github.com/FrukTik/AsyncWorldEditInjector](https://github.com/FrukTik/AsyncWorldEditInjector)
 
 ## Version
 

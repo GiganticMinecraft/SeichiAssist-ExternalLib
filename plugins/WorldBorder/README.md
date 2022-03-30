@@ -2,7 +2,7 @@
 ワールドの境界線を簡単に設定できるプラグイン
 
 ## Link
-https://dev.bukkit.org/projects/worldborder
+[https://dev.bukkit.org/projects/worldborder](https://dev.bukkit.org/projects/worldborder)
 
 ## Version
 

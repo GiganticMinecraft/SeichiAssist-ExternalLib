@@ -2,7 +2,7 @@
 WorldEditの選択範囲を縦長のグリッドに正規化するためのプラグイン
 
 ## Link
-https://github.com/GiganticMinecraft/RegionGridFitter
+[https://github.com/GiganticMinecraft/RegionGridFitter](https://github.com/GiganticMinecraft/RegionGridFitter)
 
 ## Version
 

@@ -2,7 +2,7 @@
 液体の流れを止めるプラグイン
 
 ## Link
-https://github.com/GiganticMinecraft/StreamClock
+[https://github.com/GiganticMinecraft/StreamClock](https://github.com/GiganticMinecraft/StreamClock)
 
 ## Version
 v 1.0-SNAPSHOT

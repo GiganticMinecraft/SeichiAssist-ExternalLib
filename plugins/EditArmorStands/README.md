@@ -2,7 +2,7 @@
 アーマースタンドを編集するプラグイン
 
 ## Link
-https://www.spigotmc.org/resources/edit-armor-stands.5445/
+[https://www.spigotmc.org/resources/edit-armor-stands.5445/](https://www.spigotmc.org/resources/edit-armor-stands.5445/)
 
 ## Version
 v 1.3.6

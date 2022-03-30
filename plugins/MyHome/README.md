@@ -2,7 +2,7 @@
 任意の座標をhomeとして記録しテレポートできる機能を提供するプラグイン
 
 ## Link
-https://dev.bukkit.org/projects/myhome
+[https://dev.bukkit.org/projects/myhome](https://dev.bukkit.org/projects/myhome)
 
 ## Version
 2.3.2

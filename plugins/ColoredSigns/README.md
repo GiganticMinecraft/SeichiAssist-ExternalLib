@@ -2,7 +2,7 @@
 看板に色を追加できるプラグイン
 
 ## Link
-https://www.spigotmc.org/resources/colored-signs.31676/
+[https://www.spigotmc.org/resources/colored-signs.31676/](https://www.spigotmc.org/resources/colored-signs.31676/)
 
 ## Version
 v 2.0

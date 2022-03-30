@@ -2,7 +2,7 @@
 プレイヤー参加時のメッセージを変更するプラグイン
 
 ## Link
-https://dev.bukkit.org/projects/custom-joinleftmessages
+[https://dev.bukkit.org/projects/custom-joinleftmessages](https://dev.bukkit.org/projects/custom-joinleftmessages)
 
 ## Version
 v 0.5

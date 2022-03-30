@@ -2,7 +2,7 @@
 ワールドを再生成することができるようになるプラグイン
 
 ## Link
-https://github.com/GiganticMinecraft/RegenWorld
+[https://github.com/GiganticMinecraft/RegenWorld](https://github.com/GiganticMinecraft/RegenWorld)
 
 ## Version
 1.2

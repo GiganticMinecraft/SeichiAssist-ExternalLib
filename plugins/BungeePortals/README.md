@@ -2,7 +2,7 @@
 サーバー間のテレポートを行うポータルを作成できるプラグイン
 
 ## Link
-https://www.spigotmc.org/resources/bungeeportals.19/
+[https://www.spigotmc.org/resources/bungeeportals.19/](https://www.spigotmc.org/resources/bungeeportals.19/)
 
 ## Version
 

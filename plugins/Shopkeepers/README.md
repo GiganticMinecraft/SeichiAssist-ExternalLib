@@ -2,7 +2,7 @@
 交易内容を自由に設定できる村人を召喚できるプラグイン
 
 ## Link
-https://dev.bukkit.org/projects/shopkeepers
+[https://dev.bukkit.org/projects/shopkeepers](https://dev.bukkit.org/projects/shopkeepers)
 
 ## Version
 

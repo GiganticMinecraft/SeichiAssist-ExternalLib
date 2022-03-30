@@ -2,7 +2,7 @@
 ランダムな位置にテレポートできるプラグイン
 
 ## Link
-https://github.com/GiganticMinecraft/RandomTeleport
+[https://github.com/GiganticMinecraft/RandomTeleport](https://github.com/GiganticMinecraft/RandomTeleport)
 
 ## Version
 v 1.0-SNAPSHOT

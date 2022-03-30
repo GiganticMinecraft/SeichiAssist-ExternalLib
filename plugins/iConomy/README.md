@@ -2,7 +2,7 @@
 経済要素を追加するプラグイン
 
 ## Link
-https://github.com/iConomy/Core
+[https://github.com/iConomy/Core](https://github.com/iConomy/Core)
 
 ## Version
 

@@ -2,7 +2,7 @@
 プレイヤーがブロックを頭にかぶることができるようになるプラグイン
 
 ## Link
-https://dev.bukkit.org/projects/simplehat2
+[https://dev.bukkit.org/projects/simplehat2](https://dev.bukkit.org/projects/simplehat2)
 
 ## Version
 

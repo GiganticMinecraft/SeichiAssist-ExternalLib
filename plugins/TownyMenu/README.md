@@ -5,7 +5,7 @@ TownyをGUIを使って操作できるようにするプラグイン
 [https://www.spigotmc.org/resources/towny-menu.83443/](https://www.spigotmc.org/resources/towny-menu.83443/)
 
 ## Version
-
+Unknown
 
 ## Installed Server
 - s3

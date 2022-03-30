@@ -13,4 +13,3 @@ v 1.0-SNAPSHOT
 - s3
 - s5
 - s7
-- s8

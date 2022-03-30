@@ -12,4 +12,3 @@ DynMapの表示にWorldGuardの保護領域を追加するプラグイン
 - s3
 - s5
 - s7
-- s8

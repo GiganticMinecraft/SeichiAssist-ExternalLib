@@ -13,4 +13,3 @@ DiscordのチャンネルとMinecraftのコンソールやチャットを連携�
 - s3
 - s5
 - s7
-- s8

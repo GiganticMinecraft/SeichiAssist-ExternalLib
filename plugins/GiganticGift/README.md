@@ -3,12 +3,12 @@
 
 ただし、実際に付与を行うのはSeichiAssistであり、このプラグインは二つ名の配布コマンドを実行しているのみ。
 
-# Link
+## Link
 ソースコードなし
 
-# Version
+## Version
 
-# Installed Server
+## Installed Server
 - s1
 - s2
 - s3

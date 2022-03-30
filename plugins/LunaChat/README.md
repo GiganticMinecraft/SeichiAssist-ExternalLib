@@ -2,7 +2,7 @@
 チャンネルチャット機能を提供するプラグイン
 
 ## Link
-https://www.spigotmc.org/resources/lunachat.82293/
+[https://www.spigotmc.org/resources/lunachat.82293/](https://www.spigotmc.org/resources/lunachat.82293/)
 
 ## Version
 2.8.12

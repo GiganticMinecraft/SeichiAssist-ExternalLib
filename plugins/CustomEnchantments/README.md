@@ -1,12 +1,12 @@
 # CustomEnchantments
 バニラに存在しない新規エンチャントを追加するプラグイン
 
-# Link
-https://dev.bukkit.org/projects/custom-enchantments/
+## Link
+[https://dev.bukkit.org/projects/custom-enchantments/](https://dev.bukkit.org/projects/custom-enchantments/)
 
-# Version
+## Version
 
-# Installed Server
+## Installed Server
 - s1
 - s2
 - s3

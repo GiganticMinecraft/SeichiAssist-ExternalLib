@@ -1,12 +1,12 @@
 # SeichiAssist
 ギガンティック☆整地鯖の独自要素を司るプラグイン
 
-# Link
-https://github.com/GiganticMinecraft/SeichiAssist
+## Link
+[https://github.com/GiganticMinecraft/SeichiAssist](https://github.com/GiganticMinecraft/SeichiAssist)
 
-# Version
+## Version
 
-# Installed Server
+## Installed Server
 - s1
 - s2
 - s3

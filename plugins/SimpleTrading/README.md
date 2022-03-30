@@ -1,12 +1,12 @@
 # SimpleTrading
 プレイヤー間でのアイテムの取引機能を提供するプラグイン
 
-# Link
+## Link
 https://www.spigotmc.org/resources/simpletrading.23802/
 
-# Version
+## Version
 
-# Installed Server
+## Installed Server
 - s1
 - s2
 - s3

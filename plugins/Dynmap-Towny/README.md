@@ -1,10 +1,10 @@
 # Dynmap-Towny
 DynMapの表示にTownyの保護領域を追加するプラグイン
 
-# Link
+## Link
 https://dev.bukkit.org/projects/dynmap-towny
 
-# Version
+## Version
 
-# Installed Server
+## Installed Server
 - s3

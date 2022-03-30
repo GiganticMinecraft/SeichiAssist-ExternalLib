@@ -1,11 +1,11 @@
 # ShopChest
 チェストを使用したアイテムの売買を可能にするプラグイン
 
-# Link
+## Link
 https://www.spigotmc.org/resources/shopchest.11431/
 
-# Version
+## Version
 
 
-# Installed Server
+## Installed Server
 - s3

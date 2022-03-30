@@ -1,13 +1,13 @@
 # DakadoSpawn
 リスポーン位置を変更するプラグイン
 
-# Link
+## Link
 https://www.spigotmc.org/resources/dakadospawn.10156/
 
-# Version
+## Version
 v 2.2
 
-# Installed Server
+## Installed Server
 - s1
 - s2
 - s3

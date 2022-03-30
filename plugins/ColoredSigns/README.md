@@ -1,13 +1,13 @@
 # ColoredSigns
 看板に色を追加できるプラグイン
 
-# Link
+## Link
 https://www.spigotmc.org/resources/colored-signs.31676/
 
-# Version
+## Version
 v 2.0
 
-# Installed Server
+## Installed Server
 - s1
 - s2
 - s3

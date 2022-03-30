@@ -1,13 +1,13 @@
 # DoNotGrow
 農作物の成長を停止するプラグイン
 
-# Link
+## Link
 https://github.com/GiganticMinecraft/DoNotGrow
 
-# Version
+## Version
 1.0.0
 
-# Installed Server
+## Installed Server
 - s1
 - s2
 - s3

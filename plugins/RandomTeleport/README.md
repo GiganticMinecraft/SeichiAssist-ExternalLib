@@ -1,13 +1,13 @@
 # RandomTeleport
 ランダムな位置にテレポートできるプラグイン
 
-# Link
+## Link
 https://github.com/GiganticMinecraft/RandomTeleport
 
-# Version
+## Version
 v 1.0-SNAPSHOT
 
-# Installed Server
+## Installed Server
 - s1
 - s2
 - s3

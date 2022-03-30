@@ -1,13 +1,13 @@
 # MyHome
 任意の座標をhomeとして記録しテレポートできる機能を提供するプラグイン
 
-# Link
+## Link
 https://dev.bukkit.org/projects/myhome
 
-# Version
+## Version
 2.3.2
 
-# Installed Server
+## Installed Server
 - s1
 - s2
 - s3

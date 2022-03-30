@@ -1,13 +1,13 @@
 # AdvAfkKick
 満員時、放置しているプレイヤーをキックするプラグイン
 
-# Link
+## Link
 https://github.com/unchama/AdvAfkKick
 
-# Version
+## Version
 v 0.0.1
 
-# Installed Server
+## Installed Server
 - s1
 - s2
 - s3

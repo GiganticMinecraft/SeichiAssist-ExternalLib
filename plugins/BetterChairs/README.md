@@ -1,13 +1,13 @@
 # BetterChairs
 階段ブロックに座れるプラグイン
 
-# Link
+## Link
 https://www.spigotmc.org/resources/better-chairs.18705/
 
-# Version
+## Version
 v 0.9.5
 
-# Installed Server
+## Installed Server
 - s1
 - s2
 - s3

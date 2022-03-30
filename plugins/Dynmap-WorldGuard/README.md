@@ -1,12 +1,12 @@
 # Dynmap-WorldGuard
 DynMapの表示にWorldGuardの保護領域を追加するプラグイン
 
-# Link
+## Link
 https://dev.bukkit.org/projects/dynmap-worldguard
 
-# Version
+## Version
 
-# Installed Server
+## Installed Server
 - s1
 - s2
 - s3

@@ -1,12 +1,12 @@
 # PermissionsEx
 パーミッションをプレイヤーやグループごとに付与・剥奪ができるプラグイン
 
-# Link
+## Link
 https://dev.bukkit.org/projects/permissionsex
 
-# Version
+## Version
 
-# Installed Server
+## Installed Server
 - s1
 - s2
 - s3

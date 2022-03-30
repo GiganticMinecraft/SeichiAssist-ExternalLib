@@ -1,12 +1,12 @@
 # iConomy
 経済要素を追加するプラグイン
 
-# Link
+## Link
 https://github.com/iConomy/Core
 
-# Version
+## Version
 
-# Installed Server
+## Installed Server
 - s1
 - s5
 - s7

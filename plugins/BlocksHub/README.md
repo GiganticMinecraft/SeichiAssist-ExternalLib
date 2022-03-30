@@ -1,11 +1,11 @@
 # BlocksHub
 ワールドを編集するプラグインのためのロギングとブロックにアクセスするためのAPI
 
-# Link
+## Link
 https://www.spigotmc.org/resources/blockshub.331/
 
-# Version
+## Version
 
 
-# Installed Server
+## Installed Server
 - s3

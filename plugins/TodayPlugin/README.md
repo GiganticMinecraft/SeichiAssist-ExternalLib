@@ -1,12 +1,12 @@
 # TodayPlugin
 ログイン時にメッセージを表示するプラグイン
 
-# Link
+## Link
 不明
 
-# Version
+## Version
 
-# Installed Server
+## Installed Server
 - s1
 - s2
 - s3

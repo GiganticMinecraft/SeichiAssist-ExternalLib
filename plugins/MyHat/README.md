@@ -1,12 +1,12 @@
 # MyHat
 プレイヤーがブロックを頭にかぶることができるようになるプラグイン
 
-# Link
+## Link
 https://dev.bukkit.org/projects/simplehat2
 
-# Version
+## Version
 
-# Installed Server
+## Installed Server
 - s1
 - s2
 - s3

@@ -1,12 +1,12 @@
 # LiteBans
 一時的または永久的にプレイヤーがサーバーにアクセスすることを禁止することができるプラグイン
 
-# Link
+## Link
 https://www.spigotmc.org/resources/litebans.3715/
 
-# Version
+## Version
 
-# Installed Server
+## Installed Server
 - s1
 - s2
 - s3

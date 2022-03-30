@@ -1,12 +1,12 @@
 # NicoLiveAlert
 ニコニコ生放送の通知をチャットに表示するプラグイン
 
-# Link
+## Link
 http://forum.minecraftuser.jp/viewtopic.php?f=38&t=7768
 
-# Version
+## Version
 
-# Installed Server
+## Installed Server
 - s1
 - s2
 - s3

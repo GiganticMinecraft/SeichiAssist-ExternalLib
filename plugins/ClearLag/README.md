@@ -1,12 +1,12 @@
 # ClearLag
 ラグを軽減するために様々なことをしてくれるプラグイン
 
-# Link
+## Link
 https://www.spigotmc.org/resources/clearlagg.68271/
 
-# Version
+## Version
 
-# Installed Server
+## Installed Server
 - s1
 - s2
 - s3

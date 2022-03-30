@@ -1,12 +1,12 @@
 # OpenInv
 ほかプレイヤーのインベントリを確認、編集できるようにするプラグイン
 
-# Link
+## Link
 https://dev.bukkit.org/projects/openinv
 
-# Version
+## Version
 
-# Installed Server
+## Installed Server
 - s1
 - s2
 - s3

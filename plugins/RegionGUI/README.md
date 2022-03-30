@@ -1,11 +1,11 @@
 # RegionGUI
 WorldGuardによる保護に関する操作をGUIを通して行うことができるプラグイン
 
-# Link
+## Link
 
-# Version
+## Version
 
-# Installed Server
+## Installed Server
 - s1
 - s2
 - s5

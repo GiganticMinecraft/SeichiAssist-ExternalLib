@@ -1,12 +1,12 @@
 # WorldBorder
 ワールドの境界線を簡単に設定できるプラグイン
 
-# Link
+## Link
 https://dev.bukkit.org/projects/worldborder
 
-# Version
+## Version
 
-# Installed Server
+## Installed Server
 - s1
 - s2
 - s3

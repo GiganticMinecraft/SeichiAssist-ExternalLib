@@ -3,7 +3,7 @@ name: yamllint
 on:
   pull_request:
     branches:
-      - "main"
+      - main
     types: [opened, synchronize, closed]
 
 jobs:

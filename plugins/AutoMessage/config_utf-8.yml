@@ -14,7 +14,7 @@ AutoDownload: false
 # & でカラーコードを使用できます。
 # %tellraw でtellrawコマンドを実行します。
 # %line で改行することができます。(tellraw コマンドでは使用できません。)
-Message: 
+Message:
   - '&6[Tips]&f岩盤までぶち抜いた後&eY5&fにハーフブロックを敷く文化があるらしい。'
   - '&6[Tips]&f&eALL値&fが&c200&fを超える建築やMOB溜め等はご遠慮ください。'
   - '&6[Tips]&f看板の文字には&e&系各種カラーコードが使用可能&fです。'

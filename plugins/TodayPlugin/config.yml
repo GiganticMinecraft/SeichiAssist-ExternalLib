@@ -1,0 +1,24 @@
+#Message: '今は%year年%month月%date日の%hour時%minute分%week曜日です．'
+
+
+# 製作者：たまご
+#
+# %year = 何年(2015)
+# %month = 何月(9)
+# %date = 何日(5)
+# %hour = 何時(11)
+# %minute = 何分(35)
+# %week = 何曜日(土)
+Message:
+- '-----------------------------------------------------------------------------'
+- '&c&lこのサーバでは「ギガンティック☆整地鯖」のルールが適用されます'
+- '&c&lサーバ接続時点でルールを読み同意したものとみなします'
+- '&c&l不安な人はルールを再確認しよう: &e&lhttps://seichi.network/rule'
+- '&l公式サイト: &e&lhttps://seichi.network/gigantic'
+- '&lサーバマップ: &e&lhttps://seichi.network/map'
+- '&l公式Discordグループに参加: &e&lhttps://discord.gg/pVq9Ftf'
+- '&lサーバテクスチャ手動ダウンロード(v17.22 22/10/16更新):'
+- '&e&lhttps://github.com/GiganticMinecraft/OriginalResourcePack/releases/download/v17.22/seichi_tex_v17.22.zip'
+- '&l整地鯖ランキング: &e&lhttps://ranking-gigantic.seichi.click'
+- '&c&l※URLの部分をクリックすると開きます'
+- '-----------------------------------------------------------------------------'

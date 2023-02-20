@@ -20,7 +20,7 @@ jobs:
           level: warning
           yamllint_flags: '-c .yamllint .'
       - name: run lint on all files
-        uses: karancode/yamllint-github-action@v2.0.0
+        uses: karancode/yamllint-github-action@v2.1.0
         with:
           yamllint_file_or_dir: .
           yamllint_config_filepath: .github/yamllint-config.yml

@@ -5,7 +5,7 @@
 [https://www.spigotmc.org/resources/auctionhouse-legacy.66670/](https://www.spigotmc.org/resources/auctionhouse-legacy.66670/)
 
 ## Version
-Unknown
+v 3.2.3
 
 ## Installed Server
 - s3

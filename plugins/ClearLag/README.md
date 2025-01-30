@@ -5,6 +5,7 @@
 [https://www.spigotmc.org/resources/clearlagg.68271/](https://www.spigotmc.org/resources/clearlagg.68271/)
 
 ## Version
+v 3.2.2
 
 ## Installed Server
 - s1

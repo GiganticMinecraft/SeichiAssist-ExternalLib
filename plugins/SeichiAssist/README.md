@@ -5,6 +5,7 @@
 [https://github.com/GiganticMinecraft/SeichiAssist](https://github.com/GiganticMinecraft/SeichiAssist)
 
 ## Version
+v 1.14.0
 
 ## Installed Server
 - s1

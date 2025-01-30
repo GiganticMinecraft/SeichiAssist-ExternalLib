@@ -5,6 +5,7 @@
 [https://dev.bukkit.org/projects/shopkeepers](https://dev.bukkit.org/projects/shopkeepers)
 
 ## Version
+v 2.22.3
 
 ## Installed Server
 - s1

@@ -5,6 +5,7 @@
 [https://www.spigotmc.org/resources/coreprotect.8631/](https://www.spigotmc.org/resources/coreprotect.8631/)
 
 ## Version
+v 21.3
 
 ## Installed Server
 - s1

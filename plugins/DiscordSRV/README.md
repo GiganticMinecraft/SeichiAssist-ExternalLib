@@ -5,7 +5,7 @@ DiscordのチャンネルとMinecraftのコンソールやチャットを連携�
 [https://www.spigotmc.org/resources/discordsrv.18494/](https://www.spigotmc.org/resources/discordsrv.18494/)
 
 ## Version
-1.24.0
+1.25.1
 
 ## Installed Server
 - s1

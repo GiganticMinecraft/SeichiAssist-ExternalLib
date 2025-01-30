@@ -5,6 +5,7 @@
 [https://www.spigotmc.org/resources/dynmap.274/](https://www.spigotmc.org/resources/dynmap.274/)
 
 ## Version
+v 3.7-SNAPSHOT-948
 
 ## Installed Server
 - s1

@@ -5,6 +5,7 @@
 [https://www.spigotmc.org/resources/simple-elevators-1-8-1-16.44462/](https://www.spigotmc.org/resources/simple-elevators-1-8-1-16.44462/)
 
 ## Version
+v 1.3
 
 ## Installed Server
 - s1

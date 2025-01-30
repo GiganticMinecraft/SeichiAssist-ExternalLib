@@ -1,11 +1,11 @@
-# LunaChat
+# LunaChat - [Forked](https://github.com/GiganticMinecraft/LunaChat)
 チャンネルチャット機能を提供するプラグイン
 
 ## Link
 [https://www.spigotmc.org/resources/lunachat.82293/](https://www.spigotmc.org/resources/lunachat.82293/)
 
 ## Version
-2.8.12
+v 3.0.17 - For 1.18.2
 
 ## Installed Server
 - s1

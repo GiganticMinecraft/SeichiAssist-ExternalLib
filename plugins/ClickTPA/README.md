@@ -5,7 +5,7 @@
 [https://www.spigotmc.org/resources/clicktpa.62596/](https://www.spigotmc.org/resources/clicktpa.62596/)
 
 ## Version
-1.5.1
+v 1.7.3
 
 ## Installed Server
 - s1

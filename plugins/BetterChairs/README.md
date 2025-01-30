@@ -2,10 +2,11 @@
 階段ブロックに座れるプラグイン
 
 ## Link
-[https://www.spigotmc.org/resources/better-chairs.18705/](https://www.spigotmc.org/resources/better-chairs.18705/)
+- [https://www.spigotmc.org/resources/better-chairs.18705/](https://www.spigotmc.org/resources/better-chairs.18705/)
+- [https://github.com/SpraxDev/BetterChairs](https://github.com/SpraxDev/BetterChairs)
 
 ## Version
-v 0.9.5
+v 1.11.0
 
 ## Installed Server
 - s1

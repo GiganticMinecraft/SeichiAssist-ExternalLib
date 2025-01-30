@@ -5,6 +5,7 @@
 [https://www.spigotmc.org/resources/bungeeportals.19/](https://www.spigotmc.org/resources/bungeeportals.19/)
 
 ## Version
+v 1.7
 
 ## Installed Server
 - s1

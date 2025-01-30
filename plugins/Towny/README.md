@@ -5,7 +5,7 @@
 [https://www.spigotmc.org/resources/towny-advanced.72694/](https://www.spigotmc.org/resources/towny-advanced.72694/)
 
 ## Version
-Unknown
+v 0.100.3.1
 
 ## Installed Server
 - s3

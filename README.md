@@ -14,4 +14,4 @@
 - 情報は可能な限り最新を維持する
 
 ### 設定ファイルについて
-1.18.2 アップデート以降、プラグインの設定は [GiganticMinecraft/seichi_infra](https://github.com/GiganticMinecraft/seichi_infra) へ移動しているため、このプラグインでは管理しない。
+1.18.2 アップデート以降、プラグインの設定は [GiganticMinecraft/seichi_infra](https://github.com/GiganticMinecraft/seichi_infra) へ移動しているため、このリポジトリでは管理しない。

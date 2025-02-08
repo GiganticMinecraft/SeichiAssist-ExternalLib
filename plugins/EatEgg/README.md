@@ -5,7 +5,6 @@
 ## Link
 
 - [https://github.com/GiganticMinecraft/EatEgg](https://github.com/GiganticMinecraft/EatEgg)
-  - [https://github.com/Lucky3028/EatEgg](https://github.com/Lucky3028/EatEgg)
 
 ## Version
 

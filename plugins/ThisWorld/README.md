@@ -5,6 +5,7 @@
 [https://github.com/HimaJyun/ThisWorld](https://github.com/HimaJyun/ThisWorld)
 
 ## Version
+v 2.0.2
 
 ## Installed Server
 - s1

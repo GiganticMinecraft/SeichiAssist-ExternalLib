@@ -5,7 +5,7 @@
 [https://www.spigotmc.org/resources/antiredstoneclock-worldguard-plotsquard-support-1-8-1-15.18557/](https://www.spigotmc.org/resources/antiredstoneclock-worldguard-plotsquard-support-1-8-1-15.18557/)
 
 ## Version
-v 1.0.5
+v 1.5.0
 
 ## Installed Server
 - s1
